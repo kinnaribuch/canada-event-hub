@@ -1,0 +1,65 @@
+[
+  {
+    "id": "35bba08b-1b51-4153-ba7e-6da76b5ec1b9",
+    "title": "Toronto International Film Festival (TIFF)",
+    "description": "A weekend camping trip, with activities like hiking, fishing, and campfires.",
+    "image": "/images/Image1.png",
+    "timestamp": "2024-07-22T12:34:56.789Z"
+  },
+  {
+    "id": "091de676-61af-4ee6-90de-3a7a53af7521",
+    "title": "Calgary Stampede",
+    "description": "An exhibition showcasing works by students and faculty from the Royal College of Art.",
+    "image": "/images/Image2.png",
+    "timestamp": "2024-07-22T12:34:56.789Z"
+  },
+  {
+    "id": "c05b9a93-8682-4ab6-aff2-92ebb4bbfc14",
+    "title": "Winterlude in Ottawa",
+    "description": "A conference focused on advancements and innovations in engineering education worldwide.",
+    "image": "/images/Image3.png",
+    "timestamp": "2024-07-22T12:34:56.789Z"
+  },
+  {
+    "id": "f5b12023-1e0e-4b16-8457-5a1b6c6c9d20",
+    "title": "Just for Laughs Festival in Montreal",
+    "description": "A series of events showcasing the latest breakthroughs and innovations in various industries.",
+    "image": "/images/Image4.png",
+    "timestamp": "2024-07-22T12:34:56.789Z"
+  },
+  {
+    "id": "a831d730-6a2f-41a5-8e15-432ab688d7d9",
+    "title": "Celebration of Light in Vancouver",
+    "description": "A tech recruitment event where companies meet talented software engineers and developers.",
+    "image": "/images/Image5.png",
+    "timestamp": "2024-07-22T12:34:56.789Z"
+  },
+  {
+    "id": "3f3e9e7b-6749-4fc1-87b2-82363a890f3e",
+    "title": "Quebec Winter Carnival",
+    "description": "An informative webinar on leveraging LinkedIn for career growth and professional networking.",
+    "image": "/images/Image6.png",
+    "timestamp": "2024-07-22T12:34:56.789Z"
+  },
+  {
+    "id": "9d91e05b-3171-4a1a-9d42-c8d6b88a8f36",
+    "title": "Vancouver International Film Festival (VIFF)",
+    "description": "A holiday-themed concert featuring festive music and performances.",
+    "image": "/images/Image7.png",
+    "timestamp": "2024-07-22T12:34:56.789Z"
+  },
+  {
+    "id": "0e2e4c95-ec9b-4a5b-bf09-9ef37b2c13de",
+    "title": "Regina Folk Festival",
+    "description": "A casual gathering for cricket enthusiasts to play, watch, and discuss the sport.",
+    "image": "/images/Image8.png",
+    "timestamp": "2024-07-22T12:34:56.789Z"
+  },
+  {
+    "id": "f6a8d048-34a1-41f2-a2a7-4d1c4e5460c9",
+    "title": "National Canadian Film Day",
+    "description": "A romantic evening cruise for couples to celebrate Valentine's Day with a scenic sail, fine dining, and live music.",
+    "image": "/images/Image9.png",
+    "timestamp": "2024-07-22T12:34:56.789Z"
+  }
+]
